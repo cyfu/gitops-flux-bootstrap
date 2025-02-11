@@ -1,0 +1,1 @@
+The `starboard` application will be deployed by pulling helm chart from repository https://aquasecurity.github.io/helm-charts/
